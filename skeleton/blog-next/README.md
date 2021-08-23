@@ -11,5 +11,6 @@ npm run export
 Deploy on droplet:
 https://cloud.digitalocean.com/welcome?i=54082d
 
-54:09
-https://www.youtube.com/watch?v=WrmndNpWSJw
+react-cookie-consent
+https://www.npmjs.com/package/react-cookie-consent#installation
+npm install react-cookie-consent
